@@ -1,0 +1,73 @@
+.page_content {
+    background-color: #DCDCDC;
+    margin: auto;
+    width: 50%;
+    font-family: "Arial";
+    border-radius: 8px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.header {
+    text-align: center;
+}
+
+#title {
+    font-size: 400%;
+}
+
+#title_quote {
+    font-style: italic;
+    font-size: 175%;
+}
+
+img {
+    margin: auto;
+    width: 100%;
+}
+
+.timeline {
+    margin: auto;
+    width: 100%;
+}
+
+#timeline_title {
+    font-size: 150%;
+    text-align: center;
+}
+
+#timeline_header {
+    font-size: 100%;
+}
+
+#timeline_details {
+    text-align: left;
+    width: 75%;
+    margin: auto;
+}
+
+#timeline_quote {
+    font-size: 130%;
+}
+
+#quote_name {
+    color: gray;
+    font-style: italic;
+}
+
+a:link, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+#link {
+    text-align: center;
+    font-size: 125%;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: purple;
+}
